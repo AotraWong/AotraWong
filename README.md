@@ -40,23 +40,6 @@
 
 ---
 
-### 📊 GitHub Activity & Stats / GitHub 活跃度与统计
-
-<p align="center">
-  <a href="https://github.com/AotraWong">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=AotraWong&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
-  </a>
-  <a href="https://github.com/AotraWong">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AotraWong&layout=compact&hide_border=true&langs_count=8" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AotraWong&theme=github-compact&hide_border=true" alt="AotraWong's GitHub Activity Graph" />
-</p>
-
----
-
 ### 📫 Connect with Me
 
 <div align="center">
