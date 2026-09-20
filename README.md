@@ -2,7 +2,7 @@
 
 # Hi I'm AotraWong 芷姗👋
 ### Founder of [@LCNA-CN](https://github.com/LCNA-CN) · Information Technology
-### 1st-yr Clinic Medical Student in [MTSZMU](https://mts.zmu.edu.cn)  
+### 1st-year Clinical Medicine Student in [MTSZMU](https://mts.zmu.edu.cn)  
 
 > *「 我们活着，就是对恶意最大的反抗。 」*  
 > *— We live as the greatest resistance to malice.*
@@ -35,7 +35,7 @@
 | Project | Description | Link |
 | :--- | :--- | :--- |
 | **[Aotra's Blog](https://blog.lcna.cn)** | Personal technical notes, network architecture, and development essays | [Aotra's Blog ↗](https://blog.lcna.cn) |
-| **[DPS MC Server](https://dps.lcna.cn)** | Liuhe Center Network Association open-source organization & infrastructure | [DPS Website ↗](https://dps.lcna.cn) |
+| **[DPS MC Server](https://dps.lcna.cn)** | Dongguan Pioneer's Minecraft Server, powered by Pioneers | [DPS Website ↗](https://dps.lcna.cn) |
 | **[LCNA Docs](https://docs.lcna.cn)** | Core network guides, technical specs, and standard engineering docs | [`LCNA-CN/Docs repo` ↗](https://github.com/LCNA-CN/Docs) |
 
 ---
