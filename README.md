@@ -37,6 +37,9 @@
 | **[Aotra's Blog](https://blog.lcna.cn)** | Personal technical notes, network architecture, and development essays | [Aotra's Blog ↗](https://blog.lcna.cn) |
 | **[DPS MC Server](https://dps.lcna.cn)** | Dongguan Pioneer's Minecraft Server, powered by Pioneers | [DPS Website ↗](https://dps.lcna.cn) |
 | **[LCNA Docs](https://docs.lcna.cn)** | Core network guides, technical specs, and standard engineering docs | [`LCNA-CN/Docs repo` ↗](https://github.com/LCNA-CN/Docs) |
+| **[Kotra-Battery-Limit](https://github.com/AotraWong/Kotra-Battery-Limit)** | A Tool for Asahi Linux with KDE to set Battery Limit Easily | [`KBL repo` ↗](https://github.com/AotraWong/Kotra-Battery-Limit) |
+| **[Kotra-KB-Light](https://github.com/AotraWong/Kotra-KB-Light)** | A Auto Setting Keyboard Light Tool | [`KKBL repo` ↗](https://github.com/AotraWong/Kotra-Battery-Limit) |
+
 
 ---
 
